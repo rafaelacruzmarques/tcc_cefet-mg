@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GasStations</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_usuario">Usuario</string>
+    <string name="title_activity_cadastro_usuario">CadastroUsuario</string>
+    <string name="title_activity_posto">Posto</string>
+    <string name="title_activity_json__parser">JSON_Parser</string>
+    <string name="title_activity_post">Post</string>
+    <string name="title_activity_gps__mapa">GPS_Mapa</string>
+    <string name="title_activity_get_dados_posto">GetDadosPosto</string>
+    <string name="title_activity_gps__mapa__nao_usuario">GPS_Mapa_NaoUsuario</string>
+
+</resources>

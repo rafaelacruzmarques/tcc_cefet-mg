@@ -1,0 +1,11 @@
+		 Gas Stations
+APLICAÇÃO MOBILE PARA POSTOS DE COMBUSTÍVEIS.
+---------------------------------------------------------------
+	Olá! Seja bem vindo ao Gas Stations!
+
+-Para utilizar o aplicativo instale o arquivo "GaStations.apk" da pasta "arquivoFonte", via cabo USB, em um Smartphone ou Tablet que possuem o sitema operacional Android a partir da versão 2.2.
+OBSERVAÇÃO:
+	-Para utilizar o aplicativo é necessário ter 
+acesso a internet sem fio ou móvel e acesso ao GPS do 
+dispositivo.
+---------------------------------------------------------------	
